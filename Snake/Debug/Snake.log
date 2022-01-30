@@ -1,0 +1,13 @@
+﻿  main.cpp
+C:\Users\colef\source\repos\Snake\Snake\Snake.h(132,24): warning C4018:  '<': signed/unsigned mismatch
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(124,33): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(124,26): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(130,33): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(130,26): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(136,33): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(136,26): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(142,33): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(142,26): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(148,33): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+C:\Users\colef\source\repos\Snake\Snake\main.cpp(148,26): warning C4244:  'argument': conversion from 'unsigned int' to 'float', possible loss of data
+  Snake.vcxproj -> C:\Users\colef\source\repos\Snake\Debug\Snake.exe
